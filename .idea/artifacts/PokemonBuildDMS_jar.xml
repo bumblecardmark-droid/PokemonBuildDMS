@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PokemonBuildDMS:jar">
+    <output-path>$PROJECT_DIR$/dist</output-path>
+    <root id="archive" name="PokemonBuildDMS.jar">
+      <element id="module-output" name="PokemonBuildDMS" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
